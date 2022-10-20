@@ -25,11 +25,11 @@ void	ft_print_comb(void)
 	j = '1';
 	k = '2';
 
-	while (i < ('6' + 1))
+	while (i < ('7' + 1))
 	{
-		while (j < ('7' + 1))
+		while (j < ('8' + 1))
 		{
-			while (k < ('8' + 1))
+			while (k < ('9' + 1))
 			{
 				ft_print( i, j, k);
 				k++;
